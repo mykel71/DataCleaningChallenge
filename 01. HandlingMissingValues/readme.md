@@ -1,0 +1,1 @@
+Welcome to day 1 of the 5-Day Data Challenge! Today, we're going to be looking at how to deal with missing values.
